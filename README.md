@@ -1,47 +1,40 @@
+<h3 align="center">🎇 Me 🎇</h3>
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=120&text=chean0830&fontSize=50&animation=twinkling" />
+  <a href="https://velog.io/@chaen0830">
+    <img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
 </div>
 
+
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-	<h2>Tech Stack</h2>
-	<strong><p>🧱 Backend 🧱</p></strong>
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" />
-	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
-	<img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" />
-</div>
-<br>
-<div align="center">
-	<strong><p>🎨 Frontend 🎨</p></strong>
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-</div>
-<br>
-<div align="center">
-	<strong><p>⚙️ Tools ⚙️</p></strong>
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-	<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/openjdk-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/jpa-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" /></br>
+  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
-<br>
+<h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=chean0830&show_icons=true&theme=vue" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean0830&layout=compact&theme=vue" style="height:195px;" />
-</div>
-<br>
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intellij IDEA-000000.svg?style=for-the-badge&logo=Intellij IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
+</div></br>
 
-<div align="right">
-	<img src="https://komarev.com/ghpvc/?username=chean0830&label=visited&color=429800&style=flat" />
-</div>
+<a href="https://github.com/devxb/gitanimals">
+  <div align="center">
+    <img
+  src="https://render.gitanimals.org/farms/chean0830"
+  width="600"
+  height="300"
+    />
+  </div>
+
+</a>
