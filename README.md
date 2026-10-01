@@ -32,6 +32,16 @@
   <img src="https://img.shields.io/badge/playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
 </div></br>
 
+<h3 align="center">📁 Projects 📁</h3>
+<div align="center">
+  <a href="https://github.com/chean0830/festival-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=festival-project&theme=vue" />
+  </a>
+  <a href="https://github.com/chean0830/Project-Guard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=Project-Guard&theme=vue" />
+  </a>
+</div></br>
+
 <h3 align="center">📊 Stats 📊</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chean0830&show_icons=true&theme=vue" />
