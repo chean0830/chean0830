@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=120&text=chean0830&fontSize=50&animation=twinkling" />
+</div>
+
 <h3 align="center">🎇 Me 🎇</h3>
 <div align="center">
   <a href="https://velog.io/@chaen0830">
@@ -28,6 +32,12 @@
   <img src="https://img.shields.io/badge/playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" />
 </div></br>
 
+<h3 align="center">📊 Stats 📊</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chean0830&show_icons=true&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean0830&layout=compact&theme=vue" style="height:195px;" />
+</div></br>
+
 <a href="https://github.com/devxb/gitanimals">
   <div align="center">
     <img
@@ -38,3 +48,7 @@
   </div>
 
 </a>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=chean0830&label=visited&color=429800&style=flat" />
+</div>
