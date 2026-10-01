@@ -37,8 +37,8 @@
   <a href="https://github.com/chean0830/festival-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=festival-project&theme=vue" />
   </a>
-  <a href="https://github.com/chean0830/project-guard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=project-guard&theme=vue" />
+  <a href="https://github.com/chean0830/guard-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=guard-project&theme=vue" />
   </a>
 </div></br>
 
