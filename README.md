@@ -44,7 +44,7 @@
 
 <h3 align="center">📊 Stats 📊</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chean0830&show_icons=true&theme=vue" />
+  <img src="https://streak-stats.demolab.com?user=chean0830&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean0830&layout=compact&theme=vue" style="height:195px;" />
 </div></br>
 
