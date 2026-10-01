@@ -60,5 +60,5 @@
 </a>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=chean0830&label=visited&color=429800&style=flat" />
+  <img src="https://hits.sh/github.com/chean0830.svg?label=visited&color=429800" />
 </div>
