@@ -40,6 +40,15 @@
   <a href="https://github.com/chean0830/guard-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=guard-project&theme=vue" />
   </a>
+</div>
+
+<div align="center">
+
+| 프로젝트 | 서비스 | 포트폴리오 |
+| :---: | :---: | :---: |
+| 🎪 **FESTLOG** · 팀 프로젝트 | [festlog.duckdns.org](https://festlog.duckdns.org/) | [FESTLOG_Portfolio.pdf](https://github.com/chean0830/festival-project/blob/main/docs/portfolio/FESTLOG_Portfolio.pdf) |
+| 🛡️ **Project Guard** · 개인 프로젝트 | [project-guard.duckdns.org](https://project-guard.duckdns.org) | [ProjectGuard_Portfolio.pdf](https://github.com/chean0830/guard-project/blob/main/docs/portfolio/ProjectGuard_Portfolio.pdf) |
+
 </div></br>
 
 <h3 align="center">📊 Stats 📊</h3>
