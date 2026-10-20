@@ -56,14 +56,14 @@
       공연 탐색부터 기록·거래까지 잇는 페스티벌 커뮤니티<br><br>
       🌐 <a href="https://festlog.duckdns.org/">서비스 바로가기</a><br>
       📑 <a href="https://github.com/chean0830/festival-project/blob/main/docs/portfolio/FESTLOG_Portfolio.pdf">포트폴리오 PDF</a><br>
-      🧑‍💻 서비스 기획 담당 · 기록·AI·MD/중고거래·채팅 개발<br>
+      🙋 서비스 기획 담당 · 기록·AI·MD/중고거래·채팅 개발<br>
       🛠 Spring Boot · React · Redis · WebSocket · Gemini · Toss
     </td>
     <td valign="top">
       등기부등본으로 전·월세 위험 신호를 근거와 함께 알려주는 서비스<br><br>
       🌐 <a href="https://project-guard.duckdns.org">서비스 바로가기</a><br>
       📑 <a href="https://github.com/chean0830/guard-project/blob/main/docs/portfolio/ProjectGuard_Portfolio.pdf">포트폴리오 PDF</a><br>
-      🧑‍💻 기획·PM · 백엔드 · 웹 · 앱 · AWS 배포<br>
+      🙋 기획·PM · 백엔드 · 웹 · 앱 · AWS 배포<br>
       🛠 Spring Boot · Next.js · Flutter · MySQL · Toss<br><br>
       🔑 <b>체험 계정</b> (비밀번호 모두 <code>12345678</code>)<br>
       회원 <code>a@naver.com</code><br>
