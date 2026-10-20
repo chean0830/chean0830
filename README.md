@@ -49,6 +49,8 @@
 | 🎪 **FESTLOG** · 팀 프로젝트 | [festlog.duckdns.org](https://festlog.duckdns.org/) | [FESTLOG_Portfolio.pdf](https://github.com/chean0830/festival-project/blob/main/docs/portfolio/FESTLOG_Portfolio.pdf) |
 | 🛡️ **Project Guard** · 개인 프로젝트 | [project-guard.duckdns.org](https://project-guard.duckdns.org) | [ProjectGuard_Portfolio.pdf](https://github.com/chean0830/guard-project/blob/main/docs/portfolio/ProjectGuard_Portfolio.pdf) |
 
+**🔑 Project Guard 체험 계정** — 회원 `a@naver.com` · 변호사 `aa@naver.com` · 관리자 `aaa@naver.com` / 비밀번호 모두 `12345678`
+
 </div></br>
 
 <h3 align="center">📊 Stats 📊</h3>
