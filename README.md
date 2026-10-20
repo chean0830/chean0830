@@ -45,15 +45,34 @@
 </a>
 
 <b>공연 탐색부터 기록 · 거래까지, 한 번의 페스티벌 경험을 하나의 계정으로 잇는 커뮤니티</b>
+<br><br>
 
-| 항목 | 내용 |
-| :---: | --- |
-| 🌐 주소 | [festlog.duckdns.org](https://festlog.duckdns.org/) |
-| 📑 자료 | [FESTLOG_Portfolio.pdf](https://github.com/chean0830/festival-project/blob/main/docs/portfolio/FESTLOG_Portfolio.pdf) |
-| 🙋 역할 | 서비스 기획 총괄 (사용자 여정 · 우선순위 · 정책) + 페스티벌 기록 · AI 포스터 · MD/중고거래 결제 · 1:1 채팅 개발 |
-| ✨ 기능 | 공연 탐색 · 캘린더 · 통합 검색 / 페스티벌 기록 · 방문 인증 · AI 포스터 / 라이브 방송 · 후원 / MD 예약 · 중고거래 · 1:1 채팅 |
-| 🛠 기술 | Java 25 · Spring Boot 4 · JPA · MySQL · Redis · React 19 · Vite · WebSocket(STOMP) · LiveKit · Gemini · Toss Payments |
-| ☁️ 배포 | AWS EC2 (t3.micro, 서울) · Docker Compose · Caddy 자동 HTTPS |
+<table>
+  <tr>
+    <td width="110" align="center"><b>🌐 서비스</b></td>
+    <td><a href="https://festlog.duckdns.org/">festlog.duckdns.org</a></td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>📑 포트폴리오</b></td>
+    <td><a href="https://github.com/chean0830/festival-project/blob/main/docs/portfolio/FESTLOG_Portfolio.pdf">FESTLOG_Portfolio.pdf</a></td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>🙋 맡은 역할</b></td>
+    <td>서비스 기획 총괄 (사용자 여정 · 우선순위 · 정책) + 페스티벌 기록 · AI 포스터 · MD/중고거래 결제 · 1:1 채팅 개발</td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>✨ 주요 기능</b></td>
+    <td>공연 탐색 · 캘린더 · 통합 검색 / 페스티벌 기록 · 방문 인증 · AI 포스터 / 라이브 방송 · 후원 / MD 예약 · 중고거래 · 1:1 채팅</td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>🛠 기술</b></td>
+    <td>Java 25 · Spring Boot 4 · JPA · MySQL · Redis · React 19 · Vite · WebSocket(STOMP) · LiveKit · Gemini · Toss Payments</td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>☁️ 배포</b></td>
+    <td>AWS EC2 (t3.micro, 서울) · Docker Compose · Caddy 자동 HTTPS</td>
+  </tr>
+</table>
 
 </div>
 
@@ -70,17 +89,42 @@
 </a>
 
 <b>등기부등본을 올리면 위험 신호를 근거와 함께 알려주는 전·월세 사기 예방 서비스</b>
+<br><br>
 
-| 항목 | 내용 |
-| :---: | --- |
-| 🌐 주소 | [project-guard.duckdns.org](https://project-guard.duckdns.org) |
-| 📑 자료 | [ProjectGuard_Portfolio.pdf](https://github.com/chean0830/guard-project/blob/main/docs/portfolio/ProjectGuard_Portfolio.pdf) |
-| 🙋 역할 | 기획 · PM부터 백엔드 · 웹 · 앱 · 배포까지 1인 풀스택 |
-| ✨ 기능 | 등기부 PDF · 촬영 사진 판독(OCR) / 위험 판단 규칙 15개 · 근거 표시 / 실거래가 · 건축물대장 연동 / 변호사 실시간 상담 / 토스 결제 · 환불 / 관리자 |
-| 🛠 기술 | Java 25 · Spring Boot 4 · JPA · PDFBox · Google Cloud Vision · Next.js 16 · TypeScript · Flutter · WebSocket · Toss Payments |
-| ☁️ 배포 | AWS EC2 (t4g.small, 서울) · Caddy 자동 HTTPS · MySQL 8 · Flyway · 매일 DB 백업 |
-| ✅ 품질 | 자동화 테스트 336개 · GitHub Actions CI · 설계 결정 기록 58건 |
-| 🔑 체험 | 회원 `a@naver.com` · 변호사 `aa@naver.com` · 관리자 `aaa@naver.com` — 비밀번호 모두 `12345678` |
+<table>
+  <tr>
+    <td width="110" align="center"><b>🌐 서비스</b></td>
+    <td><a href="https://project-guard.duckdns.org">project-guard.duckdns.org</a></td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>📑 포트폴리오</b></td>
+    <td><a href="https://github.com/chean0830/guard-project/blob/main/docs/portfolio/ProjectGuard_Portfolio.pdf">ProjectGuard_Portfolio.pdf</a></td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>🙋 맡은 역할</b></td>
+    <td>기획 · PM부터 백엔드 · 웹 · 앱 · 배포까지 1인 풀스택</td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>✨ 주요 기능</b></td>
+    <td>등기부 PDF · 촬영 사진 판독(OCR) / 위험 판단 규칙 15개 · 근거 표시 / 실거래가 · 건축물대장 연동 / 변호사 실시간 상담 / 토스 결제 · 환불 / 관리자</td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>🛠 기술</b></td>
+    <td>Java 25 · Spring Boot 4 · JPA · PDFBox · Google Cloud Vision · Next.js 16 · TypeScript · Flutter · WebSocket · Toss Payments</td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>☁️ 배포</b></td>
+    <td>AWS EC2 (t4g.small, 서울) · Caddy 자동 HTTPS · MySQL 8 · Flyway · 매일 DB 백업</td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>✅ 품질</b></td>
+    <td>자동화 테스트 336개 · GitHub Actions CI · 설계 결정 기록 58건</td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><b>🔑 체험 계정</b></td>
+    <td>회원 <code>a@naver.com</code> · 변호사 <code>aa@naver.com</code> · 관리자 <code>aaa@naver.com</code><br>비밀번호 모두 <code>12345678</code></td>
+  </tr>
+</table>
 
 </div>
 
