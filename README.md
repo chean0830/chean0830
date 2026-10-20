@@ -34,23 +34,44 @@
 
 <h3 align="center">📁 Projects 📁</h3>
 <div align="center">
-  <a href="https://github.com/chean0830/festival-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=festival-project&theme=vue" />
-  </a>
-  <a href="https://github.com/chean0830/guard-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=guard-project&theme=vue" />
-  </a>
-</div>
-
-<div align="center">
-
-| 프로젝트 | 서비스 | 포트폴리오 |
-| :---: | :---: | :---: |
-| 🎪 **FESTLOG** · 팀 프로젝트 | [festlog.duckdns.org](https://festlog.duckdns.org/) | [FESTLOG_Portfolio.pdf](https://github.com/chean0830/festival-project/blob/main/docs/portfolio/FESTLOG_Portfolio.pdf) |
-| 🛡️ **Project Guard** · 개인 프로젝트 | [project-guard.duckdns.org](https://project-guard.duckdns.org) | [ProjectGuard_Portfolio.pdf](https://github.com/chean0830/guard-project/blob/main/docs/portfolio/ProjectGuard_Portfolio.pdf) |
-
-**🔑 Project Guard 체험 계정** — 회원 `a@naver.com` · 변호사 `aa@naver.com` · 관리자 `aaa@naver.com` / 비밀번호 모두 `12345678`
-
+<table>
+  <tr>
+    <th width="50%">🎪 FESTLOG<br><sub>팀 프로젝트 · 3인 · 28일</sub></th>
+    <th width="50%">🛡️ Project Guard<br><sub>개인 프로젝트 · 1인 · 24일</sub></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/chean0830/festival-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=festival-project&theme=vue" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chean0830/guard-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chean0830&repo=guard-project&theme=vue" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      공연 탐색부터 기록·거래까지 잇는 페스티벌 커뮤니티<br><br>
+      🌐 <a href="https://festlog.duckdns.org/">서비스 바로가기</a><br>
+      📑 <a href="https://github.com/chean0830/festival-project/blob/main/docs/portfolio/FESTLOG_Portfolio.pdf">포트폴리오 PDF</a><br>
+      🧑‍💻 서비스 기획 담당 · 기록·AI·MD/중고거래·채팅 개발<br>
+      🛠 Spring Boot · React · Redis · WebSocket · Gemini · Toss
+    </td>
+    <td valign="top">
+      등기부등본으로 전·월세 위험 신호를 근거와 함께 알려주는 서비스<br><br>
+      🌐 <a href="https://project-guard.duckdns.org">서비스 바로가기</a><br>
+      📑 <a href="https://github.com/chean0830/guard-project/blob/main/docs/portfolio/ProjectGuard_Portfolio.pdf">포트폴리오 PDF</a><br>
+      🧑‍💻 기획·PM · 백엔드 · 웹 · 앱 · AWS 배포<br>
+      🛠 Spring Boot · Next.js · Flutter · MySQL · Toss<br><br>
+      🔑 <b>체험 계정</b> (비밀번호 모두 <code>12345678</code>)<br>
+      회원 <code>a@naver.com</code><br>
+      변호사 <code>aa@naver.com</code><br>
+      관리자 <code>aaa@naver.com</code>
+    </td>
+  </tr>
+</table>
 </div></br>
 
 <h3 align="center">📊 Stats 📊</h3>
