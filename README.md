@@ -49,9 +49,9 @@
 | 항목 | 내용 |
 | :---: | --- |
 | 🌐 서비스 | [festlog.duckdns.org](https://festlog.duckdns.org/) |
-| 📑 포트폴리오 | [FESTLOG_Portfolio.pdf](https://github.com/chean0830/festival-project/blob/main/docs/portfolio/FESTLOG_Portfolio.pdf) |
-| 🙋 맡은 역할 | 서비스 기획 총괄 (사용자 여정 · 우선순위 · 정책) + 페스티벌 기록 · AI 포스터 · MD/중고거래 결제 · 1:1 채팅 개발 |
-| ✨ 주요 기능 | 공연 탐색 · 캘린더 · 통합 검색 / 페스티벌 기록 · 방문 인증 · AI 포스터 / 라이브 방송 · 후원 / MD 예약 · 중고거래 · 1:1 채팅 |
+| 📑 자료 | [FESTLOG_Portfolio.pdf](https://github.com/chean0830/festival-project/blob/main/docs/portfolio/FESTLOG_Portfolio.pdf) |
+| 🙋 역할 | 서비스 기획 총괄 (사용자 여정 · 우선순위 · 정책) + 페스티벌 기록 · AI 포스터 · MD/중고거래 결제 · 1:1 채팅 개발 |
+| ✨ 기능 | 공연 탐색 · 캘린더 · 통합 검색 / 페스티벌 기록 · 방문 인증 · AI 포스터 / 라이브 방송 · 후원 / MD 예약 · 중고거래 · 1:1 채팅 |
 | 🛠 기술 | Java 25 · Spring Boot 4 · JPA · MySQL · Redis · React 19 · Vite · WebSocket(STOMP) · LiveKit · Gemini · Toss Payments |
 | ☁️ 배포 | AWS EC2 (t3.micro, 서울) · Docker Compose · Caddy 자동 HTTPS |
 
@@ -74,13 +74,13 @@
 | 항목 | 내용 |
 | :---: | --- |
 | 🌐 서비스 | [project-guard.duckdns.org](https://project-guard.duckdns.org) |
-| 📑 포트폴리오 | [ProjectGuard_Portfolio.pdf](https://github.com/chean0830/guard-project/blob/main/docs/portfolio/ProjectGuard_Portfolio.pdf) |
-| 🙋 맡은 역할 | 기획 · PM부터 백엔드 · 웹 · 앱 · 배포까지 1인 풀스택 |
-| ✨ 주요 기능 | 등기부 PDF · 촬영 사진 판독(OCR) / 위험 판단 규칙 15개 · 근거 표시 / 실거래가 · 건축물대장 연동 / 변호사 실시간 상담 / 토스 결제 · 환불 / 관리자 |
+| 📑 자료 | [ProjectGuard_Portfolio.pdf](https://github.com/chean0830/guard-project/blob/main/docs/portfolio/ProjectGuard_Portfolio.pdf) |
+| 🙋 역할 | 기획 · PM부터 백엔드 · 웹 · 앱 · 배포까지 1인 풀스택 |
+| ✨ 기능 | 등기부 PDF · 촬영 사진 판독(OCR) / 위험 판단 규칙 15개 · 근거 표시 / 실거래가 · 건축물대장 연동 / 변호사 실시간 상담 / 토스 결제 · 환불 / 관리자 |
 | 🛠 기술 | Java 25 · Spring Boot 4 · JPA · PDFBox · Google Cloud Vision · Next.js 16 · TypeScript · Flutter · WebSocket · Toss Payments |
 | ☁️ 배포 | AWS EC2 (t4g.small, 서울) · Caddy 자동 HTTPS · MySQL 8 · Flyway · 매일 DB 백업 |
 | ✅ 품질 | 자동화 테스트 336개 · GitHub Actions CI · 설계 결정 기록 58건 |
-| 🔑 체험 계정 | 회원 `a@naver.com` · 변호사 `aa@naver.com` · 관리자 `aaa@naver.com` — 비밀번호 모두 `12345678` |
+| 🔑 체험 | 회원 `a@naver.com` · 변호사 `aa@naver.com` · 관리자 `aaa@naver.com` — 비밀번호 모두 `12345678` |
 
 </div>
 
